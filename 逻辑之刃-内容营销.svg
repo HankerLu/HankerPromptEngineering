@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="640" height="1024" xmlns="http://www.w3.org/2000/svg">
+    <!-- 卡片边框 -->
+    <rect x="30" y="30" width="580" height="964" fill="white" stroke="#333" stroke-width="2"/>
+    
+    <!-- 标题 -->
+    <text x="320" y="80" font-family="KingHwa_OldSong" font-size="24" text-anchor="middle">逻辑之刃 </text>
+    
+    <!-- 分隔线 -->
+    <line x1="60" y1="100" x2="580" y2="100" stroke="#333" stroke-width="1"/>
+    
+    <!-- 核心命题 -->
+    <text x="60" y="150" font-family="KingHwa_OldSong" font-size="18">命题形式化：</text>
+    <text x="80" y="180" font-family="KingHwa_OldSong" font-size="16">A: 创业 = {产品, 营销}</text>
+    <text x="80" y="210" font-family="KingHwa_OldSong" font-size="16">B: 硬件行业(营销资源 > 产品资源)</text>
+    <text x="80" y="240" font-family="KingHwa_OldSong" font-size="16">C: 自研内容营销 → 降低营销成本</text>
+    
+    <!-- 逻辑推导链 -->
+    <text x="60" y="290" font-family="KingHwa_OldSong" font-size="18">逻辑推导：</text>
+    <text x="80" y="320" font-family="KingHwa_OldSong" font-size="16">1. A ∧ B ⇒ 硬件创业重点在营销</text>
+    <text x="80" y="350" font-family="KingHwa_OldSong" font-size="16">2. B ∧ C ⇒ 硬件创业应重视内容营销</text>
+    
+    <!-- 本质洞见 -->
+    <text x="60" y="400" font-family="KingHwa_OldSong" font-size="18">本质洞见：</text>
+    <text x="80" y="430" font-family="KingHwa_OldSong" font-size="16">1. 硬件创业需要优化资源配比</text>
+    <text x="80" y="460" font-family="KingHwa_OldSong" font-size="16">2. 内容营销是降本增效的关键</text>
+    <text x="80" y="490" font-family="KingHwa_OldSong" font-size="16">3. 产品与营销策略需协同优化</text>
+    
+    <!-- 底部分隔线和署名 -->
+    <line x1="60" y1="940" x2="580" y2="940" stroke="#333" stroke-width="1"/>
+    <text x="320" y="980" font-family="KingHwa_OldSong" font-size="16" text-anchor="middle">李继刚 2024</text>
+</svg>
